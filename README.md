@@ -177,11 +177,8 @@ piano,happy,wedding,synthesizer,romantic
 
 ---
 
-## 🙏 Acknowledgements
 
-This repository is developed on the basis of [ConversationTTS](https://github.com/Audio-Foundation-Models/ConversationTTS). We thank the authors for their open source contributions.
-
-## ⚖️ License & Ethics Statement
+## ⚖️ License
 
 This repository is licensed under the Apache 2.0 License.
 
