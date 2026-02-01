@@ -527,7 +527,7 @@ class ScalarModel(nn.Module):
 
         emb = x
         # import pdb; pdb.set_trace()
-        emb_quant = self.vq.apply(emb)  # vq
+        emb_quant = self.vq.apply(emb)  # vq  # noqa: F841
         return emb
 
     def decode(self, x):
