@@ -14,7 +14,7 @@ dependencies = [
     "torch==2.10.0+cu130",
     "torchaudio==2.10.0+cu130",
     "torchtune==0.6.1",
-    "torchao==0.15.0",
+    "torchao==0.16.0",
     "torchvision==0.25.0+cu130",
     "tqdm==4.67.2",
     "traitlets==5.14.3",
@@ -40,4 +40,3 @@ package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
-
